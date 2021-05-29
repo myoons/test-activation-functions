@@ -19,6 +19,9 @@ Below are images of Sigmoid, ReLU, GeLU. You can find more cases in images folde
 ![sigmoid_result](https://user-images.githubusercontent.com/67945103/120077901-b5806100-c0e7-11eb-9030-78948c4fc7a5.png)
 
 
+---
+
+
 ## ReLU (Dying)
 
 ![relu](https://user-images.githubusercontent.com/67945103/120077921-d052d580-c0e7-11eb-98c4-2cbb856489aa.png)
@@ -26,6 +29,9 @@ Below are images of Sigmoid, ReLU, GeLU. You can find more cases in images folde
 ![relu_result](https://user-images.githubusercontent.com/67945103/120077925-d34dc600-c0e7-11eb-92b6-29c6ad6e8faa.png)
 
 We can see **Dying ReLU**.
+
+
+---
 
 
 ## GeLU
